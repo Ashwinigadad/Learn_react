@@ -10,6 +10,7 @@ import FunctionClick from './components/functionClick'
 import EventBind from './components/eventBind';
 import ParentComponent from './components/parentComponent';
 import UserGreeting from './components/userGreeting';
+import ListName from './components/ListName';
 
 class App extends Component {
   render(){
@@ -25,7 +26,8 @@ class App extends Component {
 
       {/* <EventBind/> */}
       {/* <ParentComponent/> */}
-      <UserGreeting/>
+      {/* <UserGreeting/> */}
+      <ListName/>
 
       
 
