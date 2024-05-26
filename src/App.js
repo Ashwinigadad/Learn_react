@@ -24,9 +24,9 @@ class App extends Component {
       <Hello /> */}
       {/* <Count/> */}
 
-      {/* <EventBind/> */}
-      {/* <ParentComponent/> */}
-      <UserGreeting/>
+      <EventBind/> 
+      <ParentComponent/>
+      {/* <UserGreeting/> */}
       {/* <ListName/> */}
 
       
