@@ -24,10 +24,10 @@ class App extends Component {
       <Hello /> */}
       {/* <Count/> */}
 
-      <EventBind/> 
-      <ParentComponent/>
+      {/* <EventBind/> 
+      <ParentComponent/> */}
       {/* <UserGreeting/> */}
-      {/* <ListName/> */}
+      <ListName/>
 
       
 
