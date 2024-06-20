@@ -16,17 +16,17 @@ class App extends Component {
   render(){
   return (
     <div className="App">
-      {/* <FunctionClick/> */}
-      {/* <Message/> */}
-      {/* <Welcome/>
+      {/* <FunctionClick/> 
+      <Message/> 
+      <Welcome/>
       <Greet name='ashu'/>
       <Greet name='abhi'/>
-      <Hello /> */}
-      {/* <Count/> */}
+      <Hello />
+      <Count/>
 
-      {/* <EventBind/> 
-      <ParentComponent/> */}
-      <UserGreeting/>
+       <EventBind/> 
+      <ParentComponent/>
+      <UserGreeting/> */}
       <ListName/>
 
       
